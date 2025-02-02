@@ -7,6 +7,6 @@ public class ComamandPromptTestng {
 	@Test
 	public void tc01()
 	{
-		System.out.println("Maven run under command prompt");
+		System.out.println("Person1 1st commit");
 	}
 }
